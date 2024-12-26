@@ -1,0 +1,8 @@
+{
+    "servers": [
+        {
+            "name": "Render_Instance",
+            "address": "https://anisette-v3-server-qxsa.onrender.com"
+        }
+    ]
+}
